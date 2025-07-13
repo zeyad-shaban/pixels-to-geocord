@@ -7,3 +7,4 @@ data/**/*.png
 data/**/*.mp4
 data/**/*.avi
 *.MP4
+!data/fun/*.JPG
